@@ -7,7 +7,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/sem-a/effective-test-history
+   git clone https://github.com/sem-a/effective-test-ostatok
    cd stock-service
    ```
 
